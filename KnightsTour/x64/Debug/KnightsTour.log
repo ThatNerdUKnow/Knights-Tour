@@ -1,0 +1,4 @@
+﻿  KnightsTour.cpp
+C:\Users\Brandon Pina\Documents\GitHub\Knights-Tour\KnightsTour\knight.h(67,1): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Brandon Pina\Documents\GitHub\Knights-Tour\KnightsTour\KnightsTour.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KnightsTour.vcxproj -> C:\Users\Brandon Pina\Documents\GitHub\Knights-Tour\x64\Debug\KnightsTour.exe
